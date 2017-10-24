@@ -70,5 +70,6 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/vonlyinno/vonlyinno.github.io.git
+#  repo: https://github.com/vonlyinno/vonlyinno.github.io.git
+  repo: git@github.tutu.com:vonlyinno/vonlyinno.github.io.git
   branch: master
